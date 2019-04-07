@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "krtx.github.io/guitar-tones/precache-manifest.82904bc5aaf790d91eceb7a905773f09.js"
+  "guitar-tones/precache-manifest.0574668b7c95868051c453ecf1bc9234.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("krtx.github.io/guitar-tones/index.html", {
+workbox.routing.registerNavigationRoute("guitar-tones/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

@@ -1,13 +1,13 @@
 {
-  "main.css": "krtx.github.io/guitar-tones/static/css/main.d3068cd3.chunk.css",
-  "main.js": "krtx.github.io/guitar-tones/static/js/main.a7d237de.chunk.js",
-  "main.js.map": "krtx.github.io/guitar-tones/static/js/main.a7d237de.chunk.js.map",
-  "runtime~main.js": "krtx.github.io/guitar-tones/static/js/runtime~main.8088e737.js",
-  "runtime~main.js.map": "krtx.github.io/guitar-tones/static/js/runtime~main.8088e737.js.map",
-  "static/js/2.65aa1cca.chunk.js": "krtx.github.io/guitar-tones/static/js/2.65aa1cca.chunk.js",
-  "static/js/2.65aa1cca.chunk.js.map": "krtx.github.io/guitar-tones/static/js/2.65aa1cca.chunk.js.map",
-  "index.html": "krtx.github.io/guitar-tones/index.html",
-  "precache-manifest.82904bc5aaf790d91eceb7a905773f09.js": "krtx.github.io/guitar-tones/precache-manifest.82904bc5aaf790d91eceb7a905773f09.js",
-  "service-worker.js": "krtx.github.io/guitar-tones/service-worker.js",
-  "static/css/main.d3068cd3.chunk.css.map": "krtx.github.io/guitar-tones/static/css/main.d3068cd3.chunk.css.map"
+  "main.css": "guitar-tones/static/css/main.d3068cd3.chunk.css",
+  "main.js": "guitar-tones/static/js/main.776bd32c.chunk.js",
+  "main.js.map": "guitar-tones/static/js/main.776bd32c.chunk.js.map",
+  "runtime~main.js": "guitar-tones/static/js/runtime~main.5a68f087.js",
+  "runtime~main.js.map": "guitar-tones/static/js/runtime~main.5a68f087.js.map",
+  "static/js/2.65aa1cca.chunk.js": "guitar-tones/static/js/2.65aa1cca.chunk.js",
+  "static/js/2.65aa1cca.chunk.js.map": "guitar-tones/static/js/2.65aa1cca.chunk.js.map",
+  "index.html": "guitar-tones/index.html",
+  "precache-manifest.0574668b7c95868051c453ecf1bc9234.js": "guitar-tones/precache-manifest.0574668b7c95868051c453ecf1bc9234.js",
+  "service-worker.js": "guitar-tones/service-worker.js",
+  "static/css/main.d3068cd3.chunk.css.map": "guitar-tones/static/css/main.d3068cd3.chunk.css.map"
 }
